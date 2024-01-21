@@ -21,7 +21,7 @@ Welcome to my portfolio! This project showcases my work and skills as a web deve
 - Make sure you have Node.js installed.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/your-portfolio.git`
+1. Clone the repository: `git clone https://github.com/oshimkhan/Portfolio_project`
 2. Navigate to the project folder: `cd your-portfolio`
 3. Install dependencies: `npm install`
 
@@ -39,7 +39,7 @@ To view my portfolio, open the `index.html` file in your web browser. Feel free 
 - Skills and technologies section
 
 ## Demo
-Check out the live demo [here]().
+Check out the live demo [here](https://github.com/oshimkhan/Portfolio_project).
 
 ## Contributing
 If you would like to contribute or report issues, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
