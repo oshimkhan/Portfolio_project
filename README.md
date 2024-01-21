@@ -38,8 +38,6 @@ To view my portfolio, open the `index.html` file in your web browser. Feel free 
 - Project showcase
 - Skills and technologies section
 
-## Demo
-Check out the live demo [here](https://github.com/oshimkhan/Portfolio_project).
 
 ## Contributing
 If you would like to contribute or report issues, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -47,8 +45,6 @@ If you would like to contribute or report issues, please follow the guidelines i
 ## Credits
 - Icons by [FontAwesome](https://fontawesome.com/)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact Information
-Feel free to reach out to me at your.email@example.com for any inquiries or feedback.
+Feel free to reach out to me at oshimpathan8@gmail.com for any inquiries or feedback.
